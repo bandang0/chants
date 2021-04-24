@@ -82,46 +82,46 @@ En vidéo:
 ### Regardez l’humilité de Dieu :
 
 <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-soprane.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-soprane.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 
 <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-alto.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-alto.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-tenor.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-tenor.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
  <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-basse.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-basse.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 ### Nous t’avons reconnu Seigneur
 
 <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-soprane.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-soprane.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 
 <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-alto.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-alto.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-tenor.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-tenor.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
  <audio controls autoplay>
- <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-basse.wav" type="audio/mpeg">
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-basse.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -130,7 +130,7 @@ Your browser does not support the audio element.
 ### Je vous salue Marie :
 
 <audio controls autoplay>
- <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---S.mp3" type="audio/mpeg">
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---M.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -140,7 +140,7 @@ Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
- <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---T.mp3" type="audio/mpeg">
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie-Angelus-T.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
