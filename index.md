@@ -97,7 +97,7 @@ source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilite%CC%81-de-Dieu-basse.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
@@ -120,7 +120,7 @@ source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavo
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-basse.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
@@ -172,7 +172,7 @@ source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/K-s
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/K-st-jean---kyrie--B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -201,7 +201,7 @@ source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/All
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Alleluia-messe-de-saint-Jean-B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -227,7 +227,7 @@ source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Sst
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/S-st-jean---sanctus--B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -251,7 +251,7 @@ source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Ana
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Anamnese-St-Jean--B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -275,7 +275,7 @@ source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agn
 Your browser does not support the audio element.
 </audio>
 
-audio controls autoplay>
+<audio controls autoplay>
 source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean-Agnus-De-i-B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
