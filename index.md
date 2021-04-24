@@ -4,7 +4,7 @@ layout: home
 
 Chers chanteurs,
 
-Veuillez trouver ci-dessous quelques resources pour apprendre et répéter les chants de la messe: les partitions et des enregistrements pour toutes les voix de soprano à basse. Grâce aux enregistrements, on espère que vous pourrez arriver sereins aux répétitions avec les animateurs, et que vous serez à l'aise pendant la messe en Juillet!
+Veuillez trouver ci-dessous quelques ressources pour apprendre et répéter les chants de la messe. Il y a les partitions et des enregistrements pour toutes les voix: soprano, alto, ténor et basse dans cet ordre. Grâce aux enregistrements, on espère que vous pourrez arriver sereins aux répétitions avec les animateurs, et que vous serez à l'aise pendant la messe en Juillet!
 
 Les enregistrements sont de la *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*, de l'ensemble *Neuf Clochers Diocèse de Lyon*, du site *PerFreeTion* ou de nous-même lorsqu'ils manquaient. Nous complèterons cette page au fur et à mesure.
 
