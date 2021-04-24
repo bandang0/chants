@@ -17,7 +17,7 @@ La musique est pour nous une composante forte de la cérémonie, un grand merci 
 ## 1. Vous qui avez soif
 
 <audio controls autoplay>
-<source src="{{site.url}}/audio/vous-qui-avez-soif-T.aac" type="audio/aac">
+<source src="{{site.url}}/audio/vous-qui-avez-soif-T.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -157,7 +157,12 @@ Your browser does not support the audio element.
 
 ## 9. Vivre comme le Christ :
 
-*Coming soon...*
+<audio controls autoplay>
+<source src="{{site.url}}/audio/vivre-comme-le-christ-T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Soprano, Alto, Basse: *Coming soon...*
 
 ## 10. Ordinaire -- Kyrie (Saint-Jean)
 
@@ -184,7 +189,12 @@ Your browser does not support the audio element.
 
 ## 11. Ordinaire -- Gloria (Messe du partage) :
 
-*Coming soon...*
+<audio controls autoplay>
+<source src="{{site.url}}/audio/gloria-T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Soprano, Alto, Basse: *Coming soon...*
 
 ## 12. Ordinaire -- Alleluia (Saint-Jean)
 
