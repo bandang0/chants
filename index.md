@@ -3,16 +3,17 @@ layout: home
 ---
 
 
-## Chants pour la messe de mariage
+# Chants pour la messe de mariage
 
-# Partitions
+### Partitions
 
 <a target="_blank" href="{{site.url}}/docs/partitions.pdf"> Trouvez les partitions ici. </a>
 
-# Vous qui avez soif
+### Vous qui avez soif
 
+*Coming soon...*
 
-# Le seigneur est ma lumière et mon salut : https://www.choralepolefontainebleau.org/bibliotheque/chants/le-seigneur-est-ma-lumiere-et-mon-salut-3102/
+### Le seigneur est ma lumière et mon salut
 
 <audio controls autoplay>
  <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Le-Seigneur-est-ma-lumiere--S.mp3" type="audio/mpeg">
@@ -34,31 +35,246 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-# Esprit de lumière, esprit créateur : https://www.choralepolefontainebleau.org/bibliotheque/esprit-de-lumiere-esprit-createur-16101/
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-#Donne-moi seulement de t’aimer : https://www.parfreetion.fr/web/partitions/view/donne-moi-seulement-de-taimer
+### Esprit de lumière, esprit créateur
 
-# Accueille au creux de tes mains : https://www.youtube.com/watch?v=AQSfN2qAinw
+<audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2017/10/Esprit-de-lumiere-esprit-createur-S.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-# Regardez l’humilité de Dieu : https://www.neufclocherslyon.fr/agir-pour-la-paroisse/tutos-chants/
+<audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2017/10/Esprit-de-lumiere-esprit-createur-A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-# Nous t’avons reconnu Seigneur : https://www.neufclocherslyon.fr/agir-pour-la-paroisse/tutos-chants/
+<audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2017/10/Esprit-de-lumiere-esprit-createur-T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-# Je vous salue Marie : https://www.choralepolefontainebleau.org/bibliotheque/chants/je-vous-salue-marie-angelus-2748/
+<audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2017/10/Esprit-de-lumiere-esprit-createur-B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-# Vivre comme le Christ :
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-# Ordinaire :
+### Donne-moi seulement de t’aimer :
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.parfreetion.fr/uploads/mp3/sopranes1/5c7ea17199c43_donne-moi-seulement-de-taimer-soprani-1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrement par *PerFreeTion*)
+
+Alto: *Coming soon...*
 
 
-Kyrie (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/kyrie-saint-jean-5278/
+### Accueille au creux de tes mains :
 
-Gloria (Messe du partage) :
+En vidéo:
 
-Alleluia (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/alleluia-saint-jean-4922/
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AQSfN2qAinw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Sanctus (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/sanctus-saint-jean-5673/
+### Regardez l’humilité de Dieu :
 
-Anamnèse (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/anamnese-saint-jean-4963/
+Soprano: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-soprane.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-Agnus (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/agnus-saint-jean-4851/
+
+Alto: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-alto.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-tenor.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilité-de-Dieu-basse.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+### Nous t’avons reconnu Seigneur
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-soprane.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+Alto: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-alto.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-tenor.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-basse.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrements pa *Les Neufs Clochers -- Diocèse de Lyon*)
+
+### Je vous salue Marie :
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---S.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Alto: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
+
+### Vivre comme le Christ :
+
+*Coming soon...*
+
+### Ordinaire -- Kyrie (Saint-Jean) :
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Kyrie-de-Saint-Jean-S.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+
+Alto: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Messe-de-St-Jean-kyrie--A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/K-st-jean---kyrie--T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+
+Basse: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/K-st-jean---kyrie--B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
+
+### Ordinaire -- Gloria (Messe du partage) :
+
+*Coming soon...*
+
+### Ordinaire -- Alleluia (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/alleluia-saint-jean-4922/
+
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Alleluia-messe-de-saint-Jean-M.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Alto: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Alleluia-messe-de-saint-Jean-A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Alleluia-messe-de-saint-Jean-T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Alleluia-messe-de-saint-Jean-B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
+
+### Ordinaire -- Sanctus (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/sanctus-saint-jean-5673/
+
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/S-st-jean---sanctus--M.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Alto: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Messe-de-St-Jean-Sanctus--A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Sst-jean---sanctus--T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/S-st-jean---sanctus--B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
+
+### Ordinaire -- Anamnèse (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/anamnese-saint-jean-4963/
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Anamnese-St-Jean--S.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Alto: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Anamnese-St-Jean--A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Anamnese-St-Jean--T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Anamnese-St-Jean--B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
+
+### Ordinaire -- Agnus (Saint-Jean) :
+
+Soprano: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean--S.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Alto: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean-Agnus-Dei--A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ténor: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean--T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Basse: <audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean-Agnus-De-i-B.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
