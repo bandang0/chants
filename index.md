@@ -144,8 +144,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
- <audio controls autoplay>
- <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---B.mp3" type="audio/mpeg">
+<audio controls autoplay>
+<source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -160,14 +160,17 @@ Your browser does not support the audio element.
 <audio controls autoplay>
  <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Kyrie-de-Saint-Jean-S.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
+</audio>
 
 <audio controls autoplay>
  <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Messe-de-St-Jean-kyrie--A.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
+</audio>
 
 <audio controls autoplay>
  <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/K-st-jean---kyrie--T.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
+</audio>
 
  <audio controls autoplay>
  <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/K-st-jean---kyrie--B.mp3" type="audio/mpeg">
