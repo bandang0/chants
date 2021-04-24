@@ -5,15 +5,15 @@ layout: home
 
 # Chants pour la messe de mariage
 
-### Partitions
+## Partitions
 
 <a target="_blank" href="{{site.url}}/docs/partitions.pdf"> Trouvez les partitions ici. </a>
 
-### Vous qui avez soif
+## 1. Vous qui avez soif
 
 *Coming soon...*
 
-### Le seigneur est ma lumière et mon salut
+## 2. Le seigneur est ma lumière et mon salut (© *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 <audio controls autoplay>
 <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Le-Seigneur-est-ma-lumiere--S.mp3" type="audio/mpeg">
@@ -35,9 +35,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-### Esprit de lumière, esprit créateur
+## 3. Esprit de lumière, esprit créateur (© *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 <audio controls autoplay>
 <source src="https://www.choralepolefontainebleau.org/content/uploads/2017/10/Esprit-de-lumiere-esprit-createur-S.mp3" type="audio/mpeg">
@@ -59,27 +58,25 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-### Donne-moi seulement de t’aimer :
+## 4. Donne-moi seulement de t’aimer (© *PerFreeTion*)
 
 <audio controls autoplay>
 <source src="https://www.parfreetion.fr/uploads/mp3/sopranes1/5c7ea17199c43_donne-moi-seulement-de-taimer-soprani-1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrement par *PerFreeTion*)
 
-*Coming soon...*
+Alto: *Coming soon...*
 
 
-### Accueille au creux de tes mains :
+## 5. Accueille au creux de tes mains
 
 En vidéo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AQSfN2qAinw" <frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AQSfN2qAinw"> <frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Regardez l’humilité de Dieu :
+## 6. Regardez l’humilité de Dieu (© *Neuf Clochers Diocèse de Lyon*)
 
 <audio controls autoplay>
 <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Regardez-lhumilite%CC%81-de-Dieu-soprane.wav" type="audio/wav">
@@ -102,7 +99,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-### Nous t’avons reconnu Seigneur
+## 7. Nous t’avons reconnu Seigneur (© *Neuf Clochers Diocèse de Lyon*)
 
 <audio controls autoplay>
 <source src="https://www.neufclocherslyon.fr/wp-content/uploads/2019/04/Nous-tavons-reconnu-Seigneur-soprano.wav" type="audio/wav">
@@ -125,12 +122,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrements pa *Les Neufs Clochers -- Diocèse de Lyon*)
-
-### Je vous salue Marie :
+## 8. Je vous salue Marie (© *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 <audio controls autoplay>
-<source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---M.mp3" type="audio/mpeg">
+<source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/23-Je-vous-salue-Marie-M.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -145,17 +140,16 @@ Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
-<source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie---B.mp3" type="audio/mpeg">
+<source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Je-vous-salue-Marie--B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-### Vivre comme le Christ :
+## 9. Vivre comme le Christ :
 
 *Coming soon...*
 
-### Ordinaire -- Kyrie (Saint-Jean) :
+## 10. Ordinaire -- Kyrie (Saint-Jean, © *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 <audio controls autoplay>
 <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Kyrie-de-Saint-Jean-S.mp3" type="audio/mpeg">
@@ -177,13 +171,12 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-### Ordinaire -- Gloria (Messe du partage) :
+## 11. Ordinaire -- Gloria (Messe du partage) :
 
 *Coming soon...*
 
-### Ordinaire -- Alleluia (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/alleluia-saint-jean-4922/
+## 12. Ordinaire -- Alleluia (Saint-Jean, © *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 
 <audio controls autoplay>
@@ -207,9 +200,7 @@ Your browser does not support the audio element.
 </audio>
 
 
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
-
-### Ordinaire -- Sanctus (Saint-Jean) : https://www.choralepolefontainebleau.org/bibliotheque/messes/sanctus-saint-jean-5673/
+## 13. Ordinaire -- Sanctus (Saint-Jean, © *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 
 <audio controls autoplay>
@@ -234,7 +225,7 @@ Your browser does not support the audio element.
 
 (Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
-### Ordinaire -- Anamnèse (Saint-Jean) :
+## 14. Ordinaire -- Anamnèse (Saint-Jean, © *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 <audio controls autoplay>
 <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Anamnese-St-Jean--S.mp3" type="audio/mpeg">
@@ -256,9 +247,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
+(Enregistrements )
 
-### Ordinaire -- Agnus (Saint-Jean) :
+## 15. Ordinaire -- Agnus (Saint-Jean, © *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
 
 <audio controls autoplay>
 <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean--S.mp3" type="audio/mpeg">
@@ -279,5 +270,3 @@ Your browser does not support the audio element.
 <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Agnus-St-Jean-Agnus-De-i-B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
-(Enregistrements copyright *Chorale Paroissiale du Pôle Missionnaire de Fontainebleau*)
