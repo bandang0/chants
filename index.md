@@ -77,9 +77,9 @@ Alto: *Coming soon...*
 
 ## 5. Accueille au creux de tes mains
 
-En vidéo:
+<a target="_blank" href="https://www.youtube.com/watch?v=AQSfN2qAinw"> En vidéo! </a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AQSfN2qAinw"> <frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 6. Regardez l’humilité de Dieu
 
