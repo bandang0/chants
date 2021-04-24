@@ -5,6 +5,10 @@ layout: home
 
 ## Chants pour la messe de mariage
 
+# Partitions
+
+<a target="_blank" href="{{site.url}}/docs/partitions.pdf"> Trouvez les partitions ici. </a>
+
 # Vous qui avez soif
 
 
@@ -16,8 +20,17 @@ Your browser does not support the audio element.
 </audio>
 
 <audio controls autoplay>
- <source src="horse.ogg" type="audio/ogg">
  <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Le-Seigneur-est-ma-lumiere--A.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Le-Seigneur-est-ma-lumiere--T.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls autoplay>
+ <source src="https://www.choralepolefontainebleau.org/content/uploads/2016/08/Le-Seigneur-est-ma-lumiere--B.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
