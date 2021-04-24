@@ -16,7 +16,12 @@ La musique est pour nous une composante forte de la cérémonie, un grand merci 
 
 ## 1. Vous qui avez soif
 
-*Coming soon...*
+<audio controls autoplay>
+<source src="{{site.url}}/audio/vous-qui-avez-soif-T.aac" type="audio/aac">
+Your browser does not support the audio element.
+</audio>
+
+Soprano, Alto, Basse: *Coming soon...*
 
 ## 2. Le seigneur est ma lumière et mon salut
 
